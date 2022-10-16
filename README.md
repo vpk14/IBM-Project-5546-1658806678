@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Coding is hard as ice, but rewards are nice.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
